@@ -1,0 +1,22 @@
+p{
+    color: blue;
+    font-family:  sans-serif;
+    font-size: 13px;
+    font-weight:bold;/* (define el grosor) coloca un texto en negrita en bold*/
+    font-style: italic ; /* italic (cursiva) - normal - oblique (la inclina meno)*/
+    text-align: justify; /* alinea el texto dentro de su contenedor*/
+    
+}
+
+h1{
+    text-align:center;
+}
+
+span{
+    text-decoration: line-through; /* Se utiliza para colocarle una line al texto, en el medio, ariba o abajo.*/
+}
+
+a{
+    text-decoration: none;
+
+}
