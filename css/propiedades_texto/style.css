@@ -5,18 +5,17 @@ p{
     font-weight:bold;/* (define el grosor) coloca un texto en negrita en bold*/
     font-style: italic ; /* italic (cursiva) - normal - oblique (la inclina meno)*/
     text-align: justify; /* alinea el texto dentro de su contenedor*/
+    line-height:1.5 ; /* Coloca el espacio entre lineas*/
+    letter-spacing: 2px; /* controla el espacio entre letras */
     
 }
 
 h1{
     text-align:center;
+    text-transform: uppercase; /* poner texto en mayuscula, minuscula, ect.*/
 }
 
 span{
     text-decoration: line-through; /* Se utiliza para colocarle una line al texto, en el medio, ariba o abajo.*/
 }
 
-a{
-    text-decoration: none;
-
-}
