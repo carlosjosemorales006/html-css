@@ -1,16 +1,35 @@
 
+body{
 
-.box1{
-    background-color: brown;
-    width: 130px;
-    height: 130px;
-    margin: 10px;
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
 }
 
-.box2{
-    background-color: brown;
-    width: 130px;
-    height: 130px;
-    margin: 10px;
+.card{
+    background: rgb(210, 139, 40);
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
 
+h1{
+    padding-top: 10px;
+    font-size: 18px;
+    margin: 0;
+}
+h2{
+
+    font-size: 13px;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+p{
+    font-size: 10px;
+    background: lightcoral;
+    text-align: justify;
+    padding: 20px;
 }
