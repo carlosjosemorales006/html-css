@@ -1,0 +1,35 @@
+.box{
+    padding: 20px 50px;
+   
+    background: hsl(210, 40%, 85%);
+    margin: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: hsl(210, 40%, 45%);
+    font-family:sans-serif ;
+    border-top: 2px solid hsl(210, 40%, 45%) ;
+    
+}
+
+/*RGBA (Rojo, Verde y Azul, OPACIDAD) */
+/*    0-255, 0-255 / 2-255 */
+/* 256*256*256 = 16777216 colores disponibles rgb(54,100, 256, 5)*/
+
+/*hexadecimal   #A5B
+07e
+18f
+29
+3a
+4b
+5c
+6d
+*/
+
+/*  
+hls otra forma de formar colores 
+hls(100, 100%. 50%
+
+
+
+
+*/
